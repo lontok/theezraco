@@ -9,7 +9,7 @@ const Roadmap = () => {
       description: "Building the foundation with Filipino Catholic Simbang Gabi",
       items: [
         "Web-only platform optimized for desktop and mobile",
-        "Simbang Gabi directory for 8 pilot parishes in greater Phoenix",
+        "Simbang Gabi directory for 7 pilot parishes in greater Phoenix",
         "Static content showcasing value for churches and believers",
         "Basic analytics framework with pilot metrics",
         "Church detail pages with community event information"
