@@ -99,16 +99,16 @@ const Home = () => {
             <div className="bg-card rounded-xl p-8 border border-border shadow-soft">
               <p className="text-lg text-card-foreground mb-6 leading-relaxed">
                 <strong className="text-primary">Simbang Gabi</strong> (Night Masses) is a beloved Filipino Catholic tradition—nine dawn masses 
-                leading up to Christmas, celebrating hope, preparation, and community. In greater Phoenix, only a handful 
-                of parishes serve the Filipino Catholic community.
+                leading up to Christmas, celebrating hope, preparation, and community. In greater Phoenix, seven 
+                parishes are participating in the 2024 diocesan celebration.
               </p>
               <p className="text-lg text-muted-foreground mb-6 leading-relaxed">
                 Today, Simbang Gabi schedules are scattered across Facebook groups, WhatsApp chats, parish bulletins, 
                 and word-of-mouth. Young adults especially struggle to find which churches are participating and when.
               </p>
               <p className="text-lg text-card-foreground leading-relaxed">
-                <strong>Ezra centralizes this.</strong> One directory, all parishes, easy discovery—starting with a pilot 
-                that honors tradition while embracing modern connectivity.
+                <strong>Ezra centralizes this.</strong> One directory, all parishes, easy discovery—starting with the 
+                Diocese of Phoenix's first-ever diocesan-level Simbang Gabi celebration in 2024.
               </p>
             </div>
           </div>
@@ -120,7 +120,7 @@ const Home = () => {
         <div className="container mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl font-bold text-foreground mb-4">
-              2026 Pilot by the Numbers
+              2024 Pilot by the Numbers
             </h2>
             <p className="text-lg text-muted-foreground">
               Making Simbang Gabi more accessible across Phoenix
@@ -130,26 +130,26 @@ const Home = () => {
           <div className="grid sm:grid-cols-2 lg:grid-cols-4 gap-6">
             <div className="bg-card rounded-xl p-6 border border-border text-center hover:shadow-medium transition-all">
               <Church className="w-10 h-10 text-primary mx-auto mb-3" />
-              <div className="text-4xl font-bold text-card-foreground mb-2">8</div>
+              <div className="text-4xl font-bold text-card-foreground mb-2">7</div>
               <div className="text-muted-foreground">Pilot Parishes</div>
             </div>
 
             <div className="bg-card rounded-xl p-6 border border-border text-center hover:shadow-medium transition-all">
               <Calendar className="w-10 h-10 text-primary mx-auto mb-3" />
-              <div className="text-4xl font-bold text-card-foreground mb-2">12</div>
+              <div className="text-4xl font-bold text-card-foreground mb-2">13</div>
               <div className="text-muted-foreground">Simbang Gabi Masses</div>
             </div>
 
             <div className="bg-card rounded-xl p-6 border border-border text-center hover:shadow-medium transition-all">
               <Users className="w-10 h-10 text-primary mx-auto mb-3" />
-              <div className="text-4xl font-bold text-card-foreground mb-2">400+</div>
+              <div className="text-4xl font-bold text-card-foreground mb-2">500+</div>
               <div className="text-muted-foreground">Expected Attendees</div>
             </div>
 
             <div className="bg-card rounded-xl p-6 border border-border text-center hover:shadow-medium transition-all">
               <TrendingUp className="w-10 h-10 text-primary mx-auto mb-3" />
-              <div className="text-4xl font-bold text-card-foreground mb-2">3</div>
-              <div className="text-muted-foreground">Active Prayer Groups</div>
+              <div className="text-4xl font-bold text-card-foreground mb-2">Dec 15-24</div>
+              <div className="text-muted-foreground">2024 Celebration</div>
             </div>
           </div>
         </div>

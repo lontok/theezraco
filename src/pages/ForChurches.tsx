@@ -121,7 +121,7 @@ const ForChurches = () => {
                     <span className="text-primary font-bold">1</span>
                   </div>
                   <div>
-                    <h3 className="font-semibold text-card-foreground mb-2">Onboard 8 Pilot Parishes</h3>
+                    <h3 className="font-semibold text-card-foreground mb-2">Onboard 7 Pilot Parishes</h3>
                     <p className="text-muted-foreground">
                       Partner with Filipino Catholic communities across greater Phoenix to showcase their 
                       Simbang Gabi celebrations in one central directory.
